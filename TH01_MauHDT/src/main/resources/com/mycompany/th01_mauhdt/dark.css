@@ -1,0 +1,24 @@
+*{
+    -fx-font: Arial;
+}
+.container{
+    -fx-background-color: #121212;
+    -fx-alignment: center;
+    -fx-spacing: 10;
+}
+.subject{
+    -fx-fill: #FFFFFF;
+    -fx-font-size: 40;
+    
+    -fx-font-weight: bold;
+    -fx-stroke-width: 3;
+    -fx-stroke: black;
+}
+
+.Button{
+    -fx-background-color: #333333;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 20;
+    -fx-pref-width: 200;
+}
+

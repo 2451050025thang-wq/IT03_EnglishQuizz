@@ -1,0 +1,19 @@
+.container{
+    -fx-background-color: lightblue;
+    -fx-alignment: center;
+    -fx-spacing: 10;
+}
+.subject{
+    -fx-fill: aquamarine;
+    -fx-font-size: 40;
+    
+    -fx-font-weight: bold;
+    -fx-stroke-width: 3;
+    -fx-stroke: blue;
+}
+
+.Button{
+    -fx-text-fill: red;
+    -fx-font-size: 20;
+    -fx-pref-width: 200;
+}
